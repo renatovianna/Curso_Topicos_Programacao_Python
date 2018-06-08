@@ -1,0 +1,6 @@
+def area(x,y):
+    print(f'area {(x*y)/2}')
+
+area(8,2)
+area(2,4)
+area(3,7)
